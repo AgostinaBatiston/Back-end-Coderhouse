@@ -10,6 +10,8 @@ class Usuario {
         return "El usuario es: " + this.nombre + " " + this.apellido
     }
 
+
+
 }
 
 let obj = {
